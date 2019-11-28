@@ -1,8 +1,8 @@
 p {
     color: blue;
     line-height: 1.5;
+    margin: 1px 5px 10px 20px;
 }
-
 
 h1{
     text-align: center;
@@ -26,6 +26,9 @@ h2 {
 body {
     font-size: 14pt;
     font-family: sans-serif, arial;
+    background: white
+    url(http://content.sportslogos.net/logos/6/216/full/2nn48xofg0hms8k326cqdmuis.gif) no-repeat top right;
+    
 }
 
 ol{
@@ -38,3 +41,28 @@ ol{
     margin-right: auto;
     width: 50%;
   }
+
+#top{
+    background-color: #ccc ;
+    padding: 20px;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+
+a:active {
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
+    color: blue;
+    background-color: yellow;
+}
+
