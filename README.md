@@ -1,1 +1,1 @@
-Practing HTML and CSS fundamentals
+Practicing HTML and CSS fundamentals.
