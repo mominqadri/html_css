@@ -1,7 +1,40 @@
 p {
     color: blue;
+    line-height: 1.5;
+}
+
+
+h1{
+    text-align: center;
 }
 
 h2 {
-    color: orange;
+    text-align: center;
+    color: #ffa900 ;
+    font-size: 1.5em;
+    background-color: black;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: orange;
+
 }
+
+body {
+    font-size: 14pt;
+    font-family: sans-serif, arial;
+}
+
+ol{
+    font-weight: 500;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
